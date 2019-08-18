@@ -49,3 +49,19 @@ Lógica de programação 1 - Os primeiros programas com Javascript e HTML
         <li>Consolidando seu conhecimento</li>
     </ul>
 
+<h2>Aula 03 - Torne seu programa dinâmico com variáveis</h2>
+    <ul>         
+        <li>Reduzindo alterações</li>
+        <li>Tapando buraco</li>
+        <li>Onde está o erro?</li>
+        <li>Você tem chance de fazer diferente!</li>
+        <li>Facilitando nossa vida!</li>
+        <li>Variáveis</li>
+        <li>Resumo</li>
+        <li>O detetive Roy!</li>
+        <li>Roy agora é programador!</li>
+        <li>Que número doido é esse?</li>
+        <li>Onde está o erro?</li>
+        <li>Álcool ou Gasolina?</li>
+        <li>Consolidando seu conhecimento</li>
+    </ul>
