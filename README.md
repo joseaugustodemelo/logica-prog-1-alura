@@ -1,31 +1,51 @@
 # logica-prog-1-alura
 Lógica de programação 1 - Os primeiros programas com Javascript e HTML
 
-Aula 01 - Comece a programar hoje
-    * Converse com seu navegador
-    * (Importante) Regravação do primeiro curso de Lógica
-    * (Obrigatório) Editor de texto e navegador
-    * Mudança no Chrome e a tag meta - auto detecção do UTF-8
-    * Criando seu próprio arquivo HTML
-    * Dê olá ao mundo
-    * Resumo
-    * Ferramenta de trabalho
-    * Disciplina e organização
-    * Extensão de arquivo e convenção
-    * A linguagem HTML
-    * HTML e TAG
-    * A imprtância da tab meta
-    * Primeiro teste e entendendo o resultado
-    * Visão além do alcance I
-    * Visão além do alcance II: ajudando um amigo
-    * HTML vs JavaScript
-    * Mundo HTML e Mundo JavaScript
-    * A instrução alert
-    * O que acontece?
-    * O debugger (depurador de código) é seu amigo
-    * O que acontece II?
-    * Visão além do alcance III: ajudando outro amigo
-    * Visão além do alcance IV: trocando as bolas
-    * Consolidando seu conhecimento
+<h2>Aula 01 - Comece a programar hoje</h2>
+    <ul> 
+        <li>Converse com seu navegador</li>
+        <li> (Importante) Regravação do primeiro curso de Lógica </li>
+        <li> (Obrigatório) Editor de texto e navegador </li>
+        <li> Mudança no Chrome e a tag meta - auto detecção do UTF-8 </li>
+        <li> Criando seu próprio arquivo HTML </li>
+        <li> Dê olá ao mundo </li>
+        <li> Resumo </li>
+        <li> Ferramenta de trabalho </li>
+        <li> Disciplina e organização </li>
+        <li> Extensão de arquivo e convenção </li>
+        <li> A linguagem HTML </li>
+        <li> HTML e TAG </li>
+        <li> A imprtância da tab meta </li>
+        <li> Primeiro teste e entendendo o resultado </li>
+        <li> Visão além do alcance I </li>
+        <li> Visão além do alcance II: ajudando um amigo </li>
+        <li> HTML vs JavaScript </li>
+        <li> Mundo HTML e Mundo JavaScript </li>
+        <li> A instrução alert </li>
+        <li> O que acontece? </li>
+        <li> O debugger (depurador de código) é seu amigo </li>
+        <li> O que acontece II? </li>
+        <li> Visão além do alcance III: ajudando outro amigo </li>
+        <li> Visão além do alcance IV: trocando as bolas </li>
+        <li> Consolidando seu conhecimento </li>
+    </ul>
 
-Aula 02 - Comunique-se com o usuário    
+<h2>Aula 02 - Comunique-se com o usuário</h2>
+    <ul>         
+        <li>Recapitulando</li>
+        <li>Convenção no uso de tags</li>
+        <li>Estrutura básica de todos os nossos programas</li>
+        <li>Concatenação</li>
+        <li>Usar alert demais pode ser tedioso para o usuário</li>
+        <li>Operações com textos e números</li>
+        <li>(Revisão) Entendendo ainda mais o que acontece</li>
+        <li>Que valor absurdo é esse?</li>
+        <li>Deixando mais claro o significado do resultado</li>
+        <li>Qual é o número?</li>
+        <li>Exemplos de concatenações</li>
+        <li>Quantos % acertei na prova?</li>
+        <li>E o resultado é...</li>
+        <li>O que não fazemos por amor...</li>
+        <li>Consolidando seu conhecimento</li>
+    </ul>
+
