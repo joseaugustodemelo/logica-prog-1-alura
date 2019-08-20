@@ -65,3 +65,21 @@ Lógica de programação 1 - Os primeiros programas com Javascript e HTML
         <li>Álcool ou Gasolina?</li>
         <li>Consolidando seu conhecimento</li>
     </ul>
+<h2>Aula 04 - Crie suas próprias funcionalidades</h2>
+    <ul>         
+        <li>Melhorando a manutenção do código</li> 
+        <li>Sobre funções</li> 
+        <li>Funções que não funcionam</li> 
+        <li>Funções com parâmetros</li> 
+        <li>Resumo</li> 
+        <li>A pegadinha que deu errado</li> 
+        <li>Será que ele pegou mesmo a vantagem do uso de funções</li> 
+        <li>Alerta diferente</li> 
+        <li>Não mostra como fez? Eu recrio do zero!</li> 
+        <li>(Reflexão) Não programadores conseguem entender o que um código faz?</li> 
+        <li>A idade do meu irmão</li> 
+        <li>O problema das gerações</li>
+        <li> Consolidando seu conhecimento</li>
+        <li></li>
+        <li></li>
+    </ul>           
