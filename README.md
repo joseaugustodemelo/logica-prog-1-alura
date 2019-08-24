@@ -100,3 +100,21 @@ Lógica de programação 1 - Os primeiros programas com Javascript e HTML
         <li>Agora eu quero ver!</li>
         <li>Consolidando seu conhecimento</li>
     </ul>
+
+<h2>Aula 06 - Execute códigos diferentes dependendo da condição</h2>
+    <ul>         
+        <li>Convertendo texto em números</li>       
+        <li>O total de convidados é...</li>
+        <li>Insistindo no total de convidados ...</li>
+        <li>O resultado é ...</li>
+        <li>Trabalhando com condições</li>
+        <li>Operações lógicas</li>
+        <li>Melhorando programa de IMC</li>
+        <li>Será que entra?</li>
+        <li>Jogo de adivinhação</li>
+        <li>A condição if e else</li>
+        <li>Onde está o erro de Braga?</li>
+        <li>Será que posso dirigir?</li>
+        <li>Consolidando seu conhecimento 1</li>
+        <li>Consolidando seu conhecimento 2</li>
+    </ul>
