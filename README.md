@@ -79,7 +79,24 @@ Lógica de programação 1 - Os primeiros programas com Javascript e HTML
         <li>(Reflexão) Não programadores conseguem entender o que um código faz?</li> 
         <li>A idade do meu irmão</li> 
         <li>O problema das gerações</li>
-        <li> Consolidando seu conhecimento</li>
-        <li></li>
-        <li></li>
-    </ul>           
+        <li>Consolidando seu conhecimento</li>
+    </ul>      
+
+<h2>Aula 05 - Pratique resolvendo problemas do seu dia a dia</h2>
+    <ul>         
+        <li>Calculando o IMC</li>   
+        <li>Cálculo do IMC, fórmula</li> 
+        <li>Cálculo do IMC, aplicação</li>
+        <li>Função que recebe mais de um parâmetro</li>
+        <li>Retorno de funções</li>
+        <li>Véspera de carnaval</li>
+        <li>Retornando um valor específico</li>
+        <li>Olha o cálculo do IMC novamente!</li>
+        <li>Entendendo a fundo retorno de funções</li>
+        <li>É valido ou não é válido?</li>
+        <li>A função prompt</li>
+        <li>Lendo do teclado!</li>
+        <li>Qual é o resultado novamente?</li>
+        <li>Agora eu quero ver!</li>
+        <li>Consolidando seu conhecimento</li>
+    </ul>
